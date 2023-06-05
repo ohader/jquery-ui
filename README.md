@@ -1,6 +1,6 @@
 # (deprecated) jquery-ui integration for TYPO3 v12
 
-⚠️ This extension won't be continued for TYPO3 v12.  It just serves as
+⚠️ This extension won't be continued for TYPO3 v13!  It just serves as
 drop-in replacement for `jquery-ui`, which has been removed form TYPO3 v12.
 
 This extension provides the following JavaScript module import maps - like
