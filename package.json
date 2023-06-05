@@ -1,0 +1,27 @@
+{
+  "name": "@friendsoftypo3/jquery-ui",
+  "version": "1.13.2",
+  "license": "MIT",
+  "keywords": [
+    "TYPO3",
+    "jquery-ui",
+    "deprecated"
+  ],
+  "description": "(deprecated) jquery-ui integration for TYPO3 v12 - won't be continued for TYPO3 v13",
+  "homepage": "https://github.com/FriendsOfTYPO3/jquery-ui",
+  "author": "The @friendsoftypo3/jquery-ui Contributors (https://github.com/FriendsOfTYPO3/jquery-ui/graphs/contributors)",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FriendsOfTYPO3/jquery-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FriendsOfTYPO3/jquery-ui/issues"
+  },
+  "scripts": {
+    "build": "./build.js"
+  },
+  "dependencies": {
+    "jquery-ui-dist": "^1.13.2"
+  }
+}

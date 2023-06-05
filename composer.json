@@ -1,0 +1,24 @@
+{
+    "name": "friendsoftypo3/jquery-ui",
+    "type": "typo3-cms-extension",
+    "description": "(deprecated) jquery-ui integration for TYPO3 v12 - won't be continued for TYPO3 v13",
+    "homepage": "https://github.com/FriendsOfTYPO3/jquery-ui",
+    "support": {
+        "issues": "https://github.com/FriendsOfTYPO3/jquery-ui/issues",
+        "source": "https://github.com/FriendsOfTYPO3/jquery-ui"
+    },
+    "license": ["MIT"],
+    "require": {
+        "typo3/cms-core": "~12.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FriendsOfTYPO3\\JqueryUi\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "jquery_ui"
+        }
+    }
+}
